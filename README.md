@@ -29,3 +29,7 @@ Context Switching: The OS saves a "snapshot" of the paused task's registers and 
 Hierarchy: Hardware interrupts (ISRs) from the Vector Table always preempt software tasks.
 
 
+
+
+
+
